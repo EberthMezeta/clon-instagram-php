@@ -1,0 +1,18 @@
+{
+    "name": "eberth/instagram",
+    "autoload": {
+        "psr-4": {
+            "Eberth\\Instagram\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Eberth",
+            "email": "the.jonkey@gmail.com"
+        }
+    ],
+    "require": {
+        "bramus/router": "~1.6",
+        "vlucas/phpdotenv": "^5.4"
+    }
+}
